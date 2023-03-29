@@ -1,1 +1,1 @@
-# Lab9
+# Lab8: Neural Network with JAX
